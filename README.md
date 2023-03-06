@@ -1,7 +1,7 @@
 ### Profile
 
-- Job: Image Processing Developer
-- Language: CUDA, C++, Golang
+- Job: Software Engineer
+- Language: CUDA/C++, Golang
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=physpeach&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
